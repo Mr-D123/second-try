@@ -1,0 +1,30 @@
+div.a{
+background-color : #4d0099;
+color : white;
+text-align: center;
+padding: 10px;
+margin: 0px;
+}
+
+   .b{
+	   background-color: #ccb3ff;
+	   
+
+	}
+
+.font{
+	font-family: verdana;
+	color: indigo;
+}	
+
+.border{
+	border-style: solid;
+	border-color: navy;
+	border-width: 1.5px;
+	padding: 10px;
+
+}
+.navy{
+      color: navy;
+} 
+
